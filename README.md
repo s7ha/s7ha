@@ -36,6 +36,7 @@
   <a href="https://www.instagram.com/heartlessgirl_suha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=974&color=EF3FF7&random=false&width=435&lines=Wellcome+on+my+Github;LifeLine+Jakaria;Show+My+Tool" alt="Typing SVG" /></a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
